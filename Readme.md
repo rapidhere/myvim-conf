@@ -2,7 +2,11 @@ RapiD's Vim Configurations And Plugins
 ======================================
 
 >   This is my own vim configurations along with some plugins
+>
 >   You can copy, modify and use it freely, without any restricts
+Snapshot
+--------
+![Snapshot](./snapshot.png)
 
 Files
 -----
