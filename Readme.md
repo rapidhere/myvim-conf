@@ -7,7 +7,7 @@ RapiD's Vim Configurations And Plugins
 
 Snapshot
 --------
-![Snapshot](https://github.com/rapidhere/myvim-conf/master/snapshot.png)
+![Snapshot](https://github.com/rapidhere/myvim-conf/blob/master/snapshot.png?raw=true)
 
 Files
 -----
