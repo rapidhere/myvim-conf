@@ -71,3 +71,6 @@ The color isn't same as the snapshot?
 *   This is maybe your terminal isn't 256 Color.
 
 *   Or the theme has been chosen as `Light` in color schema mango. You can force mango shema to use desired `Dark` theme by change the `.vim/colors/mango.vim`. At line 8, Change the `let bgcolor = &background` into `let bgcolor = "Dark"`
+
+###Cannot found ctags?
+maybe you haven't install it, just run `sudo apt-get install ctags`
